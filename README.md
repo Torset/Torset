@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Torset 👋
 
-<!--
-**Torset/Torset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 **Senior Consultant | Cybersecurity Specialist**
 
-Here are some ideas to get you started:
+I'm a senior consultant with a bachelor's degree in **Digital Infrastructure and Cybersecurity**. My professional focus is on cloud-native security solutions, currently working extensively with **Microsoft Sentinel** and the broader **Microsoft Security stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Current Focus
+
+- Microsoft Sentinel (SIEM/SOAR)
+- Microsoft Defender Suite
+- Cloud and infrastructure security
+
+
+
+
+
+
